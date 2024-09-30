@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button_width">77dp</dimen>
+    <dimen name="button_height">76dp</dimen>
+
+    <dimen name="button_play_width">236dp</dimen>
+    <dimen name="button_play_height">49dp</dimen>
+
+    <dimen name="button_nextlevel_width">195dp</dimen>
+    <dimen name="button_nextlevel_height">61dp</dimen>
+
+</resources>
