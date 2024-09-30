@@ -10,3 +10,5 @@
 
 ## Usage
 Download the app, choose a crossword, and start learning new Rusyn words!
+
+Gameplay: https://www.youtube.com/watch?v=J3FWe2rCY60
